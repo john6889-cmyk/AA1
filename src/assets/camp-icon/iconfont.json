@@ -1,0 +1,261 @@
+{
+  "id": "2811578",
+  "name": "技术加强",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10593837",
+      "name": "用户-角色-用户名-单人_jurassic",
+      "font_class": "jurassic_user",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "1727462",
+      "name": "227注册、添加好友",
+      "font_class": "zhucetianjiahaoyou",
+      "unicode": "e8ca",
+      "unicode_decimal": 59594
+    },
+    {
+      "icon_id": "13646192",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "5147490",
+      "name": "报警",
+      "font_class": "app_icons--",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "2376731",
+      "name": "灯光总开关",
+      "font_class": "dengguangzongkaiguan",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "8171646",
+      "name": "灯光",
+      "font_class": "dengguang1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "18402730",
+      "name": "灯光",
+      "font_class": "dengguang2",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1104539",
+      "name": "其它类_灯光",
+      "font_class": "qitaleidengguang",
+      "unicode": "e9e2",
+      "unicode_decimal": 59874
+    },
+    {
+      "icon_id": "1365404",
+      "name": "标识类_报警",
+      "font_class": "biaoshilei_baojing",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "7768451",
+      "name": "灯光",
+      "font_class": "dengguang",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "18367959",
+      "name": "报警",
+      "font_class": "baojing",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "9646451",
+      "name": "点击2",
+      "font_class": "dianji1",
+      "unicode": "e87c",
+      "unicode_decimal": 59516
+    },
+    {
+      "icon_id": "21156",
+      "name": "点击",
+      "font_class": "dianji",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1265513",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1719302",
+      "name": "二维码",
+      "font_class": "erweima1",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "5387520",
+      "name": "二维码",
+      "font_class": "erweima2",
+      "unicode": "eaf1",
+      "unicode_decimal": 60145
+    },
+    {
+      "icon_id": "19811071",
+      "name": "温度监测",
+      "font_class": "wendujiance_1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "20017803",
+      "name": "湿度",
+      "font_class": "shidu",
+      "unicode": "e894",
+      "unicode_decimal": 59540
+    },
+    {
+      "icon_id": "6677859",
+      "name": "光照",
+      "font_class": "guangzhao",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "8628975",
+      "name": "空气质量",
+      "font_class": "kongqizhiliang",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "11464310",
+      "name": "光照",
+      "font_class": "guangzhao1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "19229410",
+      "name": "噪声",
+      "font_class": "zaosheng",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "16194548",
+      "name": "型号",
+      "font_class": "xinghao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1853853",
+      "name": "品牌",
+      "font_class": "pinpai",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "2276188",
+      "name": "ERP_品种大类",
+      "font_class": "ERP_pinzhongdalei",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "5819543",
+      "name": "协议管理",
+      "font_class": "xieyiguanli",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "7173588",
+      "name": "位置",
+      "font_class": "zb",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "8094198",
+      "name": "类别",
+      "font_class": "leibie",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "8351851",
+      "name": "设备名称",
+      "font_class": "shebeimingcheng",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "13251681",
+      "name": "使用状态-01",
+      "font_class": "shiyongzhuangtai-",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "20600812",
+      "name": "版本",
+      "font_class": "banben",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "20952264",
+      "name": "智能控制",
+      "font_class": "zhinengkongzhi",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "21053639",
+      "name": "端口",
+      "font_class": "duankou",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "22770795",
+      "name": "规格型号-线2",
+      "font_class": "guigexinghao-xian2",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "7530859",
+      "name": "ip",
+      "font_class": "ip",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "18368045",
+      "name": "开关 开",
+      "font_class": "kaiguankai",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    }
+  ]
+}

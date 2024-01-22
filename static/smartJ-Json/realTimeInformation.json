@@ -1,0 +1,43 @@
+{
+    "statusCode": 200,
+    "msg": "数据返回正常",
+    "data": [{
+            "id": 1,
+            "realTime": "2020-12-09 09:15",
+            "name": "李智楠",
+            "receiver": "李国",
+            "visitedReason": "设备维修",
+            "image": "test1.jpg"
+        }, {
+            "id": 2,
+            "realTime": "2020-12-09 09:15",
+            "name": "李小立",
+            "receiver": "张风",
+            "visitedReason": "派送文件",
+            "image": "test2.jpg"
+        }, {
+            "id": 3,
+            "realTime": "2020-12-09 09:15",
+            "name": "刘洪涛",
+            "receiver": "李国",
+            "visitedReason": "运送物资",
+            "image": "test3.jpg"
+        },
+        {
+            "id": 4,
+            "realTime": "2020-12-09 09:15",
+            "name": "赵杰",
+            "receiver": "张风",
+            "visitedReason": "探望亲属",
+            "image": "test4.jpg"
+        },
+        {
+            "id": 5,
+            "realTime": "2020-12-09 09:15",
+            "name": "孔珍",
+            "receiver": "李国",
+            "visitedReason": "探望亲属",
+            "image": "test5.jpg"
+        }
+    ]
+}

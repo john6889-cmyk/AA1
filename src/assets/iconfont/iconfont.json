@@ -1,0 +1,30 @@
+{
+  "id": "2252998",
+  "name": "J用物联网安全实验环境",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9327015",
+      "name": "下单",
+      "font_class": "xiadan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14165400",
+      "name": "发货",
+      "font_class": "status-2",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "18669790",
+      "name": "物流车",
+      "font_class": "wuliu-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}

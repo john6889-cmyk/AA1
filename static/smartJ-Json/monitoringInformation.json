@@ -1,0 +1,40 @@
+{
+    "statusCode": 200,
+    "msg": "数据返回正常",
+    "data": [{
+            "id": 1,
+            "name": "监控设备1",
+            "videoResources": "test.mp4"
+        }, {
+            "id": 2,
+            "name": "监控设备2",
+            "videoResources": "test1.mp4"
+        }, {
+            "id": 3,
+            "name": "监控设备3",
+            "videoResources": "test1.mp4"
+        },
+        {
+            "id": 4,
+            "name": "监控设备4",
+            "videoResources": "test.mp4"
+        }, {
+            "id": 5,
+            "name": "监控设备5",
+            "videoResources": "test1.mp4"
+        }, {
+            "id": 6,
+            "name": "监控设备6",
+            "videoResources": "test.mp4"
+        }, {
+            "id": 7,
+            "name": "监控设备7",
+            "videoResources": "test1.mp4"
+        },
+        {
+            "id": 8,
+            "name": "监控设备8",
+            "videoResources": "test.mp4"
+        }
+    ]
+}
